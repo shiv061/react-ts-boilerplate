@@ -32,7 +32,7 @@ module.exports = {
     '@typescript-eslint/explicit-module-boundary-types': 'off',
     'import/order': ['error', { 'newlines-between': 'always' }],
     'jsx-a11y/no-noninteractive-element-interactions': 'warn',
-    'prettier/prettier': 'error', // Enforce Prettier rules as ESLint errors
+    'prettier/prettier': 'error', // Enforce Prettier rules as ESLint errors,
   },
   ignorePatterns: ['node_modules/', 'dist/'], // Folders to ignore
   env: {
