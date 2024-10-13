@@ -10,7 +10,6 @@ package-lock.json
 # Output directories
 dist/
 build/
-public/
 
 # Logs
 logs
